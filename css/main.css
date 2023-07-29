@@ -126,6 +126,7 @@ img {
 .site-logo {
     width: 234px;
     height: 33px;
+    margin-top: 6px;
     background-image: url(../images/logos.svg);
     background-repeat: no-repeat;
     
